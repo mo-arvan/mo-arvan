@@ -15,14 +15,17 @@ Alongside my academic research, I also build independent public-interest and pro
 
 PhD in Computer Science from UIC (2024), advised by Dr. Natalie Parde.
 
-## Projects
+<!--
+**mo-arvan/mo-arvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- [herdr-claude-auto-retry](https://github.com/mo-arvan/herdr-claude-auto-retry): waits out Anthropic rate limits and resumes Claude Code sessions, as a herdr plugin.
-- [scholar-dossier-agent](https://github.com/mo-arvan/scholar-dossier-agent): human-in-the-loop agent that assembles sourced evidence dossiers for research scholars and drafts impact summaries for staff review.
-- [archehr-qa-2026-uic-aihealth4all](https://github.com/mo-arvan/archehr-qa-2026-uic-aihealth4all): grounded clinical question answering over electronic health records, our system for the ArchEHR-QA 2026 shared task.
-- [apexlegends-data-analysis](https://github.com/mo-arvan/apexlegends-data-analysis): accuracy-adjusted weapon and match analysis from ALGS tournament data.
-- [cta-transit-display](https://github.com/mo-arvan/cta-transit-display): a Raspberry Pi replica of the CTA train arrival boards.
+Here are some ideas to get you started:
 
-## Research artifacts
-
-Code and data behind my papers are archived where the paper points: on Zenodo ([EMNLP 2022](https://doi.org/10.5281/zenodo.6728627), [INLG 2022](https://doi.org/10.5281/zenodo.6618317)) or in read-only repositories here. The full list is on my [publications page](https://mo-arvan.github.io/publications/).
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
